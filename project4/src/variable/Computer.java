@@ -5,6 +5,9 @@ public class Computer {
     static int ramSize = 10;
     final int cpu = 3;
     int memory ;
+
+//6TH MODIFICATION
+      System.out.println("6th modification");
 	
 	public int getRamSize(){
 		return ramSize;
