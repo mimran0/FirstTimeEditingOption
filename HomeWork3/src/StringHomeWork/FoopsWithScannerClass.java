@@ -12,7 +12,9 @@ public class FoopsWithScannerClass {
 		 n= in.nextInt();
         
         System.out.println("hello");
-        System.out.println(n);
+//10th modification (deleting one line)
+      
+
 	}
 
 }
